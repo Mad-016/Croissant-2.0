@@ -1,12 +1,14 @@
 body {
-  background: red;
+  background: #f8e8a6;
+  text-align: center;
 }
 
 h1 {
-  text-align: centre;
-  color: white;
+  font-size: 32px;
 }
 
-a {
-  color: white;
+.nav-links a {
+  color: green;
+  margin-left: 10px;
+  margin-right: 10px;
 }
